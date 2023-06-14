@@ -10,7 +10,7 @@ print(len(fruits))
 fruits[2] = 'Tomato' ## changing value
 print(fruits)
 
-fruits.append('orange') ## add new item
+fruits.append('orange') ## add new item to the list
 print(fruits)
 
 fruits.insert(2, 'kola') ##add new item into specific index
