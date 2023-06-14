@@ -10,7 +10,7 @@ print(txt)
 a = 'Hello world'
 print(a[0])
 
-############## Looping through a string
+############## Looping through a string and find each letter
 for i in 'Noyon':
     print(i) #This line into the for loop
 
